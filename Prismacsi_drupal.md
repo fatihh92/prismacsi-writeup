@@ -1,6 +1,6 @@
-# PRİSMACSİ(DRUPAL) WRİTEUP
+# PRISMACSI - TYPHOON WRITEUP
 ---------------------------------------------
-##PRISMACSI firmasının yayınladığı typhoon makinesindeki drupal ve linux kernel versiyonundan kaynaklanan zaafiyetlerden yararlanarak ele geçirmemi anlatacağım.
+## PRISMACSI firmasının yayınladığı typhoon makinesindeki drupal ve linux kernel versiyonundan kaynaklanan zaafiyetlerden yararlanarak ele geçirmemi anlatacağım.
 
 
 ### 1)İlk olaran nmap taraması yaparak açık olan portları ve üzerinde çalışan servisler hakkında bilgi topladım.
