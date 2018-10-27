@@ -1,7 +1,7 @@
 # PRISMACSI - TYPHOON WRITEUP 2
 --------------------------------------------------
 
-##PRISMACSI firmasının yayınladığı typhoon makinesini tomcat zaafiyetini sömürerek ele geçirmemi anlatacağım.
+## PRISMACSI firmasının yayınladığı typhoon makinesini tomcat zafiyetini sömürerek ele geçirmemi anlatacağım.
 
 ### 1)İlk olarak yine nmap taramasıyla başlıyorum.Böylelikle tomcat'in versiyonunu ve port numarasını öğreniyorum.
 
